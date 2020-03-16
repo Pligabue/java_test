@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be72937b-4225-433e-bec5-784645b73e8b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y8q6E7E1XZF2Ef1JE3IZ475BBt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Map">
+    <configuration name="Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Map" />
+      <module name="snake_game" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helpers.Pair" />
+      <module name="snake_game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helpers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Snake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Snake" />
+      <module name="snake_game" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Map" />
+        <item itemvalue="Application.Pair" />
+        <item itemvalue="Application.Snake" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be72937b-4225-433e-bec5-784645b73e8b" name="Default Changelist" comment="" />
+      <created>1582334392326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582334392326</updated>
+      <workItem from="1582334395005" duration="27738000" />
+      <workItem from="1582429317027" duration="1640000" />
+      <workItem from="1582466846706" duration="4686000" />
+      <workItem from="1582520293649" duration="4254000" />
+      <workItem from="1582558220474" duration="41000" />
+      <workItem from="1582602461799" duration="2089000" />
+      <workItem from="1582639112181" duration="195000" />
+      <workItem from="1582825610153" duration="2176000" />
+      <workItem from="1584323296322" duration="4647000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1582334503978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1582334503978" />
+    <state x="539" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1582338886889">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="539" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582338886889" />
+    <state width="1493" height="257" key="GridCell.Tab.0.bottom" timestamp="1584372247715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584372247715" />
+    <state width="1493" height="257" key="GridCell.Tab.0.center" timestamp="1584372247715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584372247715" />
+    <state width="1493" height="257" key="GridCell.Tab.0.left" timestamp="1584372247715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584372247715" />
+    <state width="1493" height="257" key="GridCell.Tab.0.right" timestamp="1584372247715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="257" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584372247715" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1582490315818">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582490315818" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1582490315818">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582490315818" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1582490315818">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582490315818" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1582490315818">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582490315818" />
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1584323300498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584323300498" />
+    <state x="498" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582393354900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1582393354900" />
+    <state x="407" y="27" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582384430158">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="407" y="27" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1582384430158" />
+    <state x="209" y="33" key="new project wizard" timestamp="1582334500082">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1582334500082" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1582554465947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1582554465947" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582334896593">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582334896593" />
+  </component>
+</project>
